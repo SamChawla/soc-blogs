@@ -3,6 +3,7 @@ title: "Install node using nvm on ubuntu/Mac"
 datePublished: Thu Nov 30 2023 09:35:03 GMT+0000 (Coordinated Universal Time)
 cuid: clpl02crp000409l33abm2i9l
 slug: install-node-using-nvm-on-ubuntumac
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701366446284/1872b0b7-15bc-4ed9-9fd2-a6a7a897eaaf.jpeg
 tags: nvm
 
 ---
