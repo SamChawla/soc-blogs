@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Introduction to Django"
+title: "Day 2. Introduction to Django"
 datePublished: Fri Sep 20 2024 17:18:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm1aziwpo000n09mf02k59nwk
 slug: day-2-introduction-to-django
